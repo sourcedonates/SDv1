@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+.DS_Store
+itemviewer.sublime-project
+itemviewer.sublime-workspace
+sftp-config.json
+/public/assets/images/items/*.*
+/public/assets/images/items/groot/*.*
+/app/config/development
+/nbproject/private/
+/nbproject/
+/workbench
+/app/config/packages/
+.env.*.php
+.env.php
+.env.local.php
