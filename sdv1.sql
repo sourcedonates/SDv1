@@ -85,7 +85,7 @@ CREATE TABLE IF NOT EXISTS `donators` (
   `steamid` varchar(64) DEFAULT NULL,
   `tag` varchar(128) NOT NULL,
   `level` tinyint(1) NOT NULL DEFAULT '1'
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 COMMENT='BDI-Talbe';
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COMMENT='BDI-Table';
 
 -- --------------------------------------------------------
 
